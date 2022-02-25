@@ -2,6 +2,7 @@
     "name": "ryne/jacky",
     "description": "CSS Class helpers",
     "type": "library",
+    "licensed": "dev-master",
     "autoload": {
         "psr-4": {
             "Ryne\\Jacky\\": "src/"
