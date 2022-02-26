@@ -1,6 +1,6 @@
 {
-  "name": "jacky",
-  "version": "1.0.1",
+  "name": "cssjs-helper",
+  "version": "1.0.0",
   "description": "CSS Class helpers",
   "main": "src/css/jacky-basic.min.css",
   "style": "src/css/jacky-basic.min.css",
