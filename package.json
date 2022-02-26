@@ -1,0 +1,24 @@
+{
+  "name": "jacky",
+  "version": "1.0.1",
+  "description": "CSS Class helpers",
+  "main": "src/css/jacky-basic.min.css",
+  "style": "src/css/jacky-basic.min.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyJack/jacky.git"
+  },
+  "keywords": [
+    "Css",
+    "helpers"
+  ],
+  "author": "Dan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dannyJack/jacky/issues"
+  },
+  "homepage": "https://github.com/dannyJack/jacky#readme"
+}
